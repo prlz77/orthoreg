@@ -2,7 +2,7 @@
 LuaTorch implementation of orthoreg.
 
 ## Usage
-1. Copy the contents of the [forward-hook](https://github.com/prlz77/orthoreg/blob/master/forward-hook.lua) in your code.
+1. Copy the contents of the [backward-hook](https://github.com/prlz77/orthoreg/blob/master/forward-hook.lua) in your code.
 2. Add the beta (regularization strength, default 0.01), lambda (regularizer radius of influence, default 10), and epsilon (for numerically stable normalization), to the arguments of your script.
 3. run
 
