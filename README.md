@@ -10,7 +10,7 @@ LuaTorch implementation of orthoreg.
 ```
 @inproceedings{rodriguez2017regularizing,
   title={Regularizing CNNs with Locally Constrained Decorrelations},
-  author={Rodr{\'\i}guez, Pau and Gonz{\`a}lez, Jordi and Cucurull, Guillem and Gonfaus, Josep M. and Roca, Xavier},
+  author={Rodr{\'{i}}guez, Pau and Gonz{\`{a}}lez, Jordi and Cucurull, Guillem and Gonfaus, Josep M. and Roca, Xavier},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
   year={2017}
 }
