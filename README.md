@@ -17,5 +17,5 @@ LuaTorch implementation of orthoreg.
 ```
 
 ## Read more
-* [Arxiv](https://arxiv.org/pdf/1611.01967)
+* [Arxiv](https://arxiv.org/abs/1611.01967v2)
 * [blog](https://prlz77.github.io/iclr2017-paper/)
