@@ -1,6 +1,4 @@
-engine.hooks.onForwardCriterion = function(state)
-  meter:add(state.criterion.output)
-  clerr:add(state.network.output, state.sample.target)
+engine.hooks.onBackward = function(state)
   -- OrthoReg
   -- params: 
   --    opt.beta: the regularization stepSize (0.001 is recommended)
