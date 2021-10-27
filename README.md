@@ -1,5 +1,5 @@
 # OrthoReg
-LuaTorch implementation of orthoreg.
+LuaTorch & PyTorch implementation of orthoreg.
 
 ## Usage
 1. Copy the contents of the [backward-hook](https://github.com/prlz77/orthoreg/blob/master/backward-hook.lua) in your code.
